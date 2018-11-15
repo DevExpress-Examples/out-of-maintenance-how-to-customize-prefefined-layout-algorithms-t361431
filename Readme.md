@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/LayoutAlgorithmCustomization/Form1.cs) (VB: [Form1.vb](./VB/LayoutAlgorithmCustomization/Form1.vb))
+* [Program.cs](./CS/LayoutAlgorithmCustomization/Program.cs) (VB: [Program.vb](./VB/LayoutAlgorithmCustomization/Program.vb))
+<!-- default file list end -->
 # How to: Customize prefefined layout algorithms
 
 
